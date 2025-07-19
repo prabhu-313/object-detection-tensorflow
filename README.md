@@ -1,7 +1,7 @@
 # Object Detection Using TensorFlow on Kaggle Dataset 🚗
 
 ## 📌 Overview
-This project implements an **Object Detection pipeline** using **TensorFlow** with a custom Kaggle dataset focusing on vehicle images. The solution applies **transfer learning** using MobileNetV2 and includes a complete pipeline from dataset preparation to model training and evaluation.
+This project implements an **Object Detection pipeline** using **TensorFlow** with a custom Kaggle dataset focusing on vehicle images. The solution applies **transfer learning** using MobileNetV2 and includes a complete pipeline from dataset preparation to model training and evaluation. 
 
 ## 🚀 Features
 - ✅ Automatic Kaggle dataset download via API.
