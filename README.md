@@ -17,3 +17,5 @@ This project implements an **Object Detection pipeline** using **TensorFlow** wi
 
 ## 🛠️ Tech Stack
 - Python 3, TensorFlow, Keras, OpenCV, Kaggle API, Scikit-Learn, Matplotlib
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
